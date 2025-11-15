@@ -34,6 +34,7 @@ Run the game
 python main.py
 
 📸 Screenshots!
+
 ![Gameplay Screenshot](https://github.com/user-attachments/assets/8a021920-69a5-4db5-90f1-36a50440dfc8)
 ![Gameplay Screenshot 2](https://github.com/user-attachments/assets/9c0cba5a-6f45-4ff8-a4f5-68f19fb3dcf8)
 ![Gameplay Screenshot 3](https://github.com/user-attachments/assets/d54e9731-a0f0-445a-aa4f-3c6946170994)
