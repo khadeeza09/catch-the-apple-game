@@ -40,6 +40,7 @@ Library: Pygame
 📁 Project Structure
 
 catch_the_apple/
+
 │── assets/                # Images, icons, sounds
 
 │── main.py                # Main game script
