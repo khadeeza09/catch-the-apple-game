@@ -42,10 +42,14 @@ python main.py
 
 🚀 Future Improvements
 
-Add multiple apple types with different points
-Add sound effects
-Add lives/health system
-Add menu screen & game-over screen
+Add different difficulty modes (easy, medium, hard).
+Add background music and small sound effects.
+Add a pause menu and basic settings.
+Add simple animations like moving clouds or apple splash.
+Make the apple–basket collision more accurate.
+Add small power-ups like slow motion or double points.
+Clean and organize the code to make it easier to update later.
+Add a basic level system or small achievements.
 
 📄 License
 
