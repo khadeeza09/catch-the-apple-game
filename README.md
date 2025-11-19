@@ -4,12 +4,33 @@ A 2D interactive game built using Python and Pygame, designed to demonstrate rea
 
 🔥 Features
 
-Real-time object movement (falling apples)
-Collision detection between basket and apples
-Score tracking mechanism
-Increasing difficulty level over time
-Smooth animation using the Pygame loop
-Keyboard-controlled player movement
+Main menu with Play and Quit buttons
+
+Falling apples that rotate and move slightly sideways
+
+Basket that the player moves left and right
+
+Score system that increases when an apple is caught
+
+Lives system (you lose a life when an apple hits the ground)
+
+Game Over screen with score, high score, and restart option
+
+High score is saved in a file
+
+Smooth falling physics (gravity, speed increase, terminal velocity)
+
+Multiple apples falling at the same time
+
+Simple background with sky and grass
+
+Auto-respawn of apples at random positions
+
+Restart game with the R key
+
+Exit to main menu with the ESC key
+
+Basic collision detection between apple and basket
 
 🧰 Tech Stack
 
@@ -20,9 +41,13 @@ Library: Pygame
 
 catch_the_apple/
 │── assets/                # Images, icons, sounds
+
 │── main.py                # Main game script
+
 │── game_objects.py        # Classes for basket, apple, etc.
+
 │── utils.py               # Helper functions
+
 │── README.md              # Documentation
 
 ▶️ How to Run
@@ -47,10 +72,15 @@ Add different difficulty modes (easy, medium, hard).
 Add background music and small sound effects.
 
 Add a pause menu and basic settings.
+
 Add simple animations like moving clouds or apple splash.
+
 Make the apple–basket collision more accurate.
+
 Add small power-ups like slow motion or double points.
+
 Clean and organize the code to make it easier to update later.
+
 Add a basic level system or small achievements.
 
 📄 License
