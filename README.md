@@ -43,7 +43,9 @@ python main.py
 🚀 Future Improvements
 
 Add different difficulty modes (easy, medium, hard).
+
 Add background music and small sound effects.
+
 Add a pause menu and basic settings.
 Add simple animations like moving clouds or apple splash.
 Make the apple–basket collision more accurate.
